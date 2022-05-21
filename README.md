@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaojie-qian
 - 👀 I’m interested in business analysis and marketing insights. 
-- 🌱 I’m currently learning Python.
+- 🌱 I have background of sales and marketing, and I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects on analysis across the different industry. 
 - 📫 Reach me: xiaojie.qian@hhl.de
 
