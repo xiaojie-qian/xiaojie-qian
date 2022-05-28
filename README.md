@@ -10,7 +10,7 @@
 
 <br />
 
-### <img align="left" alt= "giraffe" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827392-01b2053d-256b-4c07-860f-c3dc6315d39e.png" /> Achievements:
+### <img align="left" alt= "giraffe" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827392-01b2053d-256b-4c07-860f-c3dc6315d39e.png" /> Achievements:
 <br />
 <img align="left" alt= "google-data-analytics-certificate" width="120px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
 
@@ -23,7 +23,7 @@
 <br />
 
 
-###  <img align="left" alt= "panda" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827446-b077f4d2-d938-4e6e-a42c-2428007a2ccf.png" /> Language and tools: 
+###  <img align="left" alt= "panda" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827446-b077f4d2-d938-4e6e-a42c-2428007a2ccf.png" /> Language and tools: 
 <br />
 <img align="left" alt= "python" width="70px" src= "https://user-images.githubusercontent.com/58776067/170830681-251e35c8-dc19-4022-97ff-6656fe5cdf1a.png" />
 <img align="left" alt= "logo-posgtresql" width="70px" src= "https://user-images.githubusercontent.com/58776067/170820722-dd8da4ed-ad0d-4598-8ebb-03ee88c5ba13.png" />
@@ -41,7 +41,7 @@
 <br />
 <br />
 
-### <img align="left" alt= "flamingo" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827449-df3352df-68dd-4e01-abf4-c07f9d0c9446.png" /> Know more about me...
+### <img align="left" alt= "flamingo" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827449-df3352df-68dd-4e01-abf4-c07f9d0c9446.png" /> Know more about me...
 <br />
 - Tableau: https://public.tableau.com/app/profile/xiaojie.qian#!/?newProfile=&activeTab=0
 <br />
