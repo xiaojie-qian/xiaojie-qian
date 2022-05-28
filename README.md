@@ -1,4 +1,4 @@
-# Hi, there, I am Xiaojie Qian @ Berlin, Germany, from Shanghai, China
+# Hi there, I am Xiaojie Qian @Berlin, Germany, aus Shanghai, China
 
 ## I am a creative lady, a lifestyle blogger and an enthusiastic learner
 - 👋 I have a master of business and good in business analysis and marketing insights 
