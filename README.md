@@ -12,7 +12,7 @@
 
 ### <img align="left" alt= "giraffe" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827392-01b2053d-256b-4c07-860f-c3dc6315d39e.png" /> Achievements:
 <br />
-<img align="left" alt= "google-data-analytics-certificate" width="200px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
+<img align="left" alt= "google-data-analytics-certificate" width="120px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
 
 <br />
 <br />
@@ -21,8 +21,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ###  <img align="left" alt= "panda" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827446-b077f4d2-d938-4e6e-a42c-2428007a2ccf.png" /> Language and tools: 
 <br />
