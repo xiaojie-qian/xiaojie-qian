@@ -5,7 +5,7 @@
 - <!--👀--> I am proficient in SQL and Tableau
 - <!--🌱--> 2022 goal: Master Python 
 - <!--💞️-->I’m looking to more opportunities to contribute to the public resouces and communities
-- <!--📫--> Reach me: xiaojie.qian@hhl.de 
+- <!--📫--> Reach me: xiaojie.qian@hhl.de
 
 
 <br />
