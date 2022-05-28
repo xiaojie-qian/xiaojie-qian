@@ -44,6 +44,7 @@
 ### <img align="left" alt= "flamingo" width="40px" src= "https://user-images.githubusercontent.com/58776067/170827449-df3352df-68dd-4e01-abf4-c07f9d0c9446.png" /> Know more about me...
 <br />
 - Tableau: https://public.tableau.com/app/profile/xiaojie.qian#!/?newProfile=&activeTab=0
+<br />
 - Website: In Construction
 
 <!---
