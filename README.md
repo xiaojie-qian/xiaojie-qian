@@ -7,8 +7,7 @@
 - <!--💞️-->I’m looking to more opportunities to contribute to the public resouces and communities
 <!-- 📫 Reach me: xiaojie.qian@hhl.de-->
 
-
-<br />
+<br /> 
 
 ### <img align="left" alt= "giraffe" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827392-01b2053d-256b-4c07-860f-c3dc6315d39e.png" /> Achievements:
 <br />
@@ -19,9 +18,8 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br /> 
+
+
 
 ###  <img align="left" alt= "panda" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827446-b077f4d2-d938-4e6e-a42c-2428007a2ccf.png" /> Language and tools: 
 
@@ -37,9 +35,8 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
+
 
 ### <img align="left" alt= "flamingo" width="30px" src= "https://user-images.githubusercontent.com/58776067/170827449-df3352df-68dd-4e01-abf4-c07f9d0c9446.png" /> Know more about me...
 <br />
