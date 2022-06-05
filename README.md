@@ -39,8 +39,9 @@
 
 
 ### Know more about me...
-- Tableau: https://public.tableau.com/app/profile/xiaojie.qian#!/?newProfile=&activeTab=0
-- Website: In Construction
+🍩 Tableau: https://public.tableau.com/app/profile/xiaojie.qian#!/?newProfile=&activeTab=0
+
+🍰 Website: In Construction
 
 <!---
 [webiste]
