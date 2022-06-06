@@ -30,6 +30,7 @@
 <img align="left" alt= "git" width="50px" src= "https://user-images.githubusercontent.com/58776067/170821093-7d251977-584e-42a3-b50c-d7293bbde644.png" />
 <img align="left" alt= "css-html" width="70px" src= "https://user-images.githubusercontent.com/58776067/170821177-475f13e7-0682-4f6e-80e4-cf2fb4eee1e8.png" />
 <img align="left" alt= "vs-code" width="50px" src= "https://user-images.githubusercontent.com/58776067/170821188-3539d6bb-0251-4764-a8c9-703a40db77fa.svg" />
+<img align="left" alt= "PHP" width="80px" src= "https://user-images.githubusercontent.com/58776067/172245228-479dfe37-6ab6-4ef4-8457-29f939ed9703.png" />
 
 <br /> 
 <br />
