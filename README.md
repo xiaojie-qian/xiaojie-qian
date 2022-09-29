@@ -8,18 +8,19 @@
 - 💞️ I’m looking to more opportunities to contribute to the public resouces and communities
 - 📫 Reach me: xiaojie.qian@hhl.de
 
-<br /> 
+<br > 
 
 ### Achievements:
-<img align="left" alt= "google-data-analytics-certificate" width="150px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
+<img align="left" alt= "google-data-analytics-certificate" width="180px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /> 
-
+<br >
+<br >
+<br >
+<br >
+<br >
+<br > 
+<br>
+<br>
 
 ### Language and tools: 
 
