@@ -11,7 +11,7 @@
 <br /> 
 
 ### Achievements:
-<img align="left" alt= "google-data-analytics-certificate" width="120px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
+<img align="left" alt= "google-data-analytics-certificate" width="150px" src= "https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" />
 
 <br />
 <br />
