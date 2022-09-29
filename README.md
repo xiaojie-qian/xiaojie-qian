@@ -16,11 +16,11 @@
 <br >
 <br >
 <br >
+<br > 
 <br >
 <br >
 <br > 
-<br>
-<br>
+<br > 
 
 ### Language and tools: 
 
@@ -31,13 +31,18 @@
 <img align="left" alt= "git" width="70px" src= "https://user-images.githubusercontent.com/58776067/170821093-7d251977-584e-42a3-b50c-d7293bbde644.png" />
 <img align="left" alt= "css-html" width="90px" src= "https://user-images.githubusercontent.com/58776067/170821177-475f13e7-0682-4f6e-80e4-cf2fb4eee1e8.png" />
 <img align="left" alt= "vs-code" width="70px" src= "https://user-images.githubusercontent.com/58776067/170821188-3539d6bb-0251-4764-a8c9-703a40db77fa.svg" />
+<br > 
+<br >
+<br >
+<br > 
+<br > 
 <img align="left" alt= "PHP" width="100px" src= "https://user-images.githubusercontent.com/58776067/172245228-479dfe37-6ab6-4ef4-8457-29f939ed9703.png" />
 <img align="left" alt="R" width="120px" src="https://user-images.githubusercontent.com/58776067/193005380-540dcc91-10d2-41e7-bb5d-1e0425f347bb.png"/>
-<br /> 
-<br />
-<br />
-<br /> 
-<br /> 
+<br > 
+<br >
+<br >
+<br > 
+<br > 
 
 
 ### Know more about me...
