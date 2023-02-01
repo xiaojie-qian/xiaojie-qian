@@ -2,9 +2,9 @@
 
 ## <img align="left" alt= "me" width="40px" src= "https://user-images.githubusercontent.com/58776067/170833834-d9283ef7-1ef1-4574-b793-66d2b279f964.png" /> I am a happy lady, a lifestyle blogger and an enthusiastic learner
 
-- 👋 I have a master of business and good in business analysis and marketing insights 
-- 👀 I am proficient in SQL and Tableau
-- 🌱 2022 goal: Master Python 
+- 👋 Marketing specialist and MBA post-graduate
+- 👀 Skilful in Excel, SQL, Tableau and Python
+- 🌱 Passionate at marketing analysis, business intelligence and data analysis
 - 💞️ I’m looking to more opportunities to contribute to the public resouces and communities
 - 📫 Reach me: xiaojie.qian@hhl.de
 
