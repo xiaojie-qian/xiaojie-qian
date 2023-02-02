@@ -54,6 +54,13 @@
 
 
 ### Know more about me...
+🌻 Interactive visual CV powered by tableau 
+
+[<img alt = 'visual cv' width = "800px" src= "https://user-images.githubusercontent.com/58776067/216242283-ee5b05fa-fc8e-4731-a123-b1b9432d2238.png"/>](https://public.tableau.com/app/profile/xiaojie.qian/viz/VisualCV_16752609688690/Dashboard2)
+
+<br >
+<br > 
+
 🍩 Tableau: https://public.tableau.com/app/profile/xiaojie.qian#!/?newProfile=&activeTab=0
 
 🍰 Website: In Construction
