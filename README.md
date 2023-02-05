@@ -56,14 +56,14 @@
 ### Know more about me...
 🌻  ***Interactive visual CV powered by tableau***
 
-[<img alt = 'visual cv' width = "800px" src= "https://user-images.githubusercontent.com/58776067/216242283-ee5b05fa-fc8e-4731-a123-b1b9432d2238.png"/>](https://public.tableau.com/app/profile/xiaojie.qian/viz/VisualCV_16752609688690/Dashboard)
+[<img alt = 'visual cv' width = "800px" src= "https://user-images.githubusercontent.com/58776067/216798980-3ce8bc42-2df7-4172-8a59-5e639ab9ac4d.png"/>](https://public.tableau.com/app/profile/xiaojie.qian/viz/VisualCV_16752609688690/Dashboard)
 
 <br >
 <br > 
 
 🍀  ***Clcik below icon to find out more about me***
 
-[<img align = "left" alt="tableau" width="200px" src="https://user-images.githubusercontent.com/58776067/216798980-3ce8bc42-2df7-4172-8a59-5e639ab9ac4d.png"/>](https://public.tableau.com/app/profile/xiaojie.qian)
+[<img align = "left" alt="tableau" width="200px" src="https://user-images.githubusercontent.com/58776067/216799037-3dcdaa09-958f-442f-b372-ae40661b099f.png"/>](https://public.tableau.com/app/profile/xiaojie.qian)
 
 [<img align="mid" alt="badges" width="150px" src="https://user-images.githubusercontent.com/58776067/216246570-74f8edfb-6610-42bf-92b7-84d549067b94.svg"/>](https://www.credly.com/earner/earned)
 
