@@ -7,6 +7,7 @@
 - 🌱 Passionate at marketing analysis, business intelligence and data analysis
 - 💞️ I’m looking to more opportunities to contribute to the public resouces and communities
 - 📫 Reach me: xiaojie.qian@hhl.de
+- 🍰 Know me more from my website: [www.summervanille.com](http://www.summervanille.com)
 
 <br > 
 
