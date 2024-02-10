@@ -73,8 +73,6 @@
 <br >
 <br >
 
-🍰 Website:  [www.summervanille.com](http://www.summervanille.com)
-
 <!---
 [webiste] 
 [Linkedin]
